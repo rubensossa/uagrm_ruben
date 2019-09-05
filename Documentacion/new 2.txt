@@ -1,0 +1,970 @@
+Microsoft Windows [Versión 10.0.10586]
+(c) 2016 Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\HP>cd C:\Tenta
+
+C:\Tenta>php artisan serve
+ Laravel development server started: <http://127.0.0.1:8000>
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56148 [200]: /css/vendor.min.css
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56149 [200]: /css/styles.min.css
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56150 [200]: /customizer/customizer.min.css
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56151 [200]: /js/modernizr.min.js
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56152 [200]: /js/vendor.min.js
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56155 [200]: /js/scripts.min.js
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56156 [200]: /customizer/customizer.min.js
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56157 [200]: /img/logo/logo.png
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56158 [200]: /img/hero-slider/logo01.png
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56159 [200]: /img/hero-slider/01.png
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56160 [200]: /img/hero-slider/logo02.png
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56161 [200]: /img/hero-slider/02.png
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56162 [200]: /img/hero-slider/logo03.png
+[Wed Oct 18 18:19:51 2017] 127.0.0.1:56163 [200]: /img/hero-slider/03.png
+[Wed Oct 18 18:19:56 2017] 127.0.0.1:56169 [200]: /fonts/feather-webfont.woff
+[Wed Oct 18 18:19:56 2017] 127.0.0.1:56170 [200]: /img/hero-slider/main-bg.jpg
+[Wed Oct 18 18:20:04 2017] 127.0.0.1:56179 [200]: /favicon.ico
+[Wed Oct 18 18:20:05 2017] 127.0.0.1:56180 [200]: /img/banners/02.jpg
+[Wed Oct 18 18:20:05 2017] 127.0.0.1:56181 [200]: /img/banners/03.jpg
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56186 [200]: /css/vendor.min.css
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56187 [200]: /css/styles.min.css
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56188 [200]: /customizer/customizer.min.css
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56189 [200]: /js/modernizr.min.js
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56190 [200]: /js/vendor.min.js
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56191 [200]: /js/scripts.min.js
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56192 [200]: /customizer/customizer.min.js
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56193 [200]: /img/logo/logo.png
+[Wed Oct 18 18:20:12 2017] 127.0.0.1:56194 [200]: /img/404_art.jpg
+[Wed Oct 18 18:20:13 2017] 127.0.0.1:56196 [200]: /fonts/feather-webfont.woff
+[Wed Oct 18 18:20:13 2017] 127.0.0.1:56197 [200]: /favicon.ico
+[Wed Oct 18 18:20:13 2017] 127.0.0.1:56200 [200]: /img/banners/02.jpg
+[Wed Oct 18 18:20:13 2017] 127.0.0.1:56201 [200]: /img/banners/03.jpg
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56203 [200]: /css/vendor.min.css
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56204 [200]: /css/styles.min.css
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56205 [200]: /customizer/customizer.min.css
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56206 [200]: /js/modernizr.min.js
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56207 [200]: /js/vendor.min.js
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56208 [200]: /js/scripts.min.js
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56209 [200]: /customizer/customizer.min.js
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56210 [200]: /img/logo/logo.png
+[Wed Oct 18 18:20:15 2017] 127.0.0.1:56211 [200]: /img/404_art.jpg
+[Wed Oct 18 18:20:16 2017] 127.0.0.1:56213 [200]: /fonts/feather-webfont.woff
+[Wed Oct 18 18:20:16 2017] 127.0.0.1:56214 [200]: /favicon.ico
+[Wed Oct 18 18:20:17 2017] 127.0.0.1:56217 [200]: /img/banners/02.jpg
+[Wed Oct 18 18:20:17 2017] 127.0.0.1:56218 [200]: /img/banners/03.jpg
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56222 [200]: /css/vendor.min.css
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56223 [200]: /css/styles.min.css
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56224 [200]: /customizer/customizer.min.css
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56225 [200]: /js/modernizr.min.js
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56226 [200]: /js/vendor.min.js
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56227 [200]: /js/scripts.min.js
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56228 [200]: /customizer/customizer.min.js
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56229 [200]: /img/logo/logo.png
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56230 [200]: /img/hero-slider/logo01.png
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56231 [200]: /img/hero-slider/01.png
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56232 [200]: /img/hero-slider/logo02.png
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56233 [200]: /img/hero-slider/02.png
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56234 [200]: /img/hero-slider/logo03.png
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56235 [200]: /img/hero-slider/03.png
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56237 [200]: /fonts/feather-webfont.woff
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56238 [200]: /img/hero-slider/main-bg.jpg
+[Wed Oct 18 18:20:25 2017] 127.0.0.1:56239 [200]: /favicon.ico
+[Wed Oct 18 18:20:28 2017] 127.0.0.1:56246 [200]: /img/banners/02.jpg
+[Wed Oct 18 18:20:28 2017] 127.0.0.1:56247 [200]: /img/banners/03.jpg
+^C
+C:\Tenta>composer update
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+^C¿Desea terminar el trabajo por lotes (S/N)? s
+
+C:\Tenta>composer
+   ______
+  / ____/___  ____ ___  ____  ____  ________  _____
+ / /   / __ \/ __ `__ \/ __ \/ __ \/ ___/ _ \/ ___/
+/ /___/ /_/ / / / / / / /_/ / /_/ (__  )  __/ /
+\____/\____/_/ /_/ /_/ .___/\____/____/\___/_/
+                    /_/
+Composer version 1.5.1 2017-08-09 16:07:22
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help                     Display this help message
+  -q, --quiet                    Do not output any message
+  -V, --version                  Display this application version
+      --ansi                     Force ANSI output
+      --no-ansi                  Disable ANSI output
+  -n, --no-interaction           Do not ask any interactive question
+      --profile                  Display timing and memory usage information
+      --no-plugins               Whether to disable plugins.
+  -d, --working-dir=WORKING-DIR  If specified, use the given directory as working directory.
+  -v|vv|vvv, --verbose           Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  about           Shows the short information about Composer.
+  archive         Creates an archive of this composer package.
+  browse          Opens the package's repository URL or homepage in your browser.
+  clear-cache     Clears composer's internal package cache.
+  clearcache      Clears composer's internal package cache.
+  config          Sets config options.
+  create-project  Creates new project from a package into given directory.
+  depends         Shows which packages cause the given package to be installed.
+  diagnose        Diagnoses the system to identify common errors.
+  dump-autoload   Dumps the autoloader.
+  dumpautoload    Dumps the autoloader.
+  exec            Executes a vendored binary/script.
+  global          Allows running commands in the global composer dir ($COMPOSER_HOME).
+  help            Displays help for a command
+  home            Opens the package's repository URL or homepage in your browser.
+  info            Shows information about packages.
+  init            Creates a basic composer.json file in current directory.
+  install         Installs the project dependencies from the composer.lock file if present, or falls back on the composer.json.
+  licenses        Shows information about licenses of dependencies.
+  list            Lists commands
+  outdated        Shows a list of installed packages that have updates available, including their latest version.
+  prohibits       Shows which packages prevent the given package from being installed.
+  remove          Removes a package from the require or require-dev.
+  require         Adds required packages to your composer.json and installs them.
+  run-script      Runs the scripts defined in composer.json.
+  search          Searches for packages.
+  self-update     Updates composer.phar to the latest version.
+  selfupdate      Updates composer.phar to the latest version.
+  show            Shows information about packages.
+  status          Shows a list of locally modified packages.
+  suggests        Shows package suggestions.
+  update          Updates your dependencies to the latest version according to composer.json, and updates the composer.lock file.
+  validate        Validates a composer.json and composer.lock.
+  why             Shows which packages cause the given package to be installed.
+  why-not         Shows which packages prevent the given package from being installed.
+
+C:\Tenta>
+
+C:\Tenta>composer require appzcoder/crud-generator
+
+Failed to decode response: zlib_decode(): data error
+Retrying with degraded mode, check https://getcomposer.org/doc/articles/troubleshooting.md#degraded-mode for more info
+^C¿Desea terminar el trabajo por lotes (S/N)?
+¿Desea terminar el trabajo por lotes (S/N)? s
+
+C:\Tenta>composer require appzcoder/crud-generator --dev
+Using version ^3.0 for appzcoder/crud-generator
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 2 installs, 0 updates, 0 removals
+  - Installing laravelcollective/html (v5.4.9): Loading from cache
+  - Installing appzcoder/crud-generator (v3.0.0): Downloading (100%)
+Writing lock file
+Generating optimized autoload files
+> Illuminate\Foundation\ComposerScripts::postUpdate
+> php artisan optimize
+ Generating optimized class loader
+The compiled services file has been removed.
+
+C:\Tenta>
+C:\Tenta>php artisan vendor:publish --provider="Appzcoder\CrudGenerator\CrudGeneratorServiceProvider"
+ Publishing complete.
+
+C:\Tenta>
+C:\Tenta>php artisan crud:generate Proveedor --fields_from_file="generador/proveedor.json"
+ Controller created successfully.
+Model created successfully.
+Migration created successfully.
+View created successfully.
+^C
+C:\Tenta>php artisan migrate
+ Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table
+Migrating: 2014_10_12_100000_create_password_resets_table
+Migrated:  2014_10_12_100000_create_password_resets_table
+Migrating: 2017_10_18_230339_create_proveedors_table
+Migrated:  2017_10_18_230339_create_proveedors_table
+
+C:\Tenta>php artisan serve
+ Laravel development server started: <http://127.0.0.1:8000>
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56789 [200]: /css/vendor.min.css
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56790 [200]: /css/styles.min.css
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56791 [200]: /customizer/customizer.min.css
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56792 [200]: /js/modernizr.min.js
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56793 [200]: /js/vendor.min.js
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56794 [200]: /js/scripts.min.js
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56795 [200]: /fonts/feather-webfont.woff
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56796 [200]: /img/logo/logo.png
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56797 [200]: /img/hero-slider/main-bg.jpg
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56798 [200]: /customizer/customizer.min.js
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56799 [200]: /img/hero-slider/logo01.png
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56800 [200]: /img/hero-slider/01.png
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56801 [200]: /img/hero-slider/logo02.png
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56802 [200]: /img/hero-slider/02.png
+[Wed Oct 18 19:11:33 2017] 127.0.0.1:56803 [200]: /img/hero-slider/logo03.png
+[Wed Oct 18 19:11:34 2017] 127.0.0.1:56804 [200]: /img/hero-slider/03.png
+[Wed Oct 18 19:11:34 2017] 127.0.0.1:56806 [200]: /favicon.ico
+[Wed Oct 18 19:11:41 2017] 127.0.0.1:56810 [200]: /favicon.ico
+[Wed Oct 18 19:13:19 2017] 127.0.0.1:56811 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:13:19 2017] 127.0.0.1:56812 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:13:19 2017] 127.0.0.1:56813 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:13:19 2017] 127.0.0.1:56814 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:13:23 2017] 127.0.0.1:56822 [200]: /favicon.ico
+[Wed Oct 18 19:13:32 2017] 127.0.0.1:56823 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:13:33 2017] 127.0.0.1:56824 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:13:33 2017] 127.0.0.1:56825 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:13:33 2017] 127.0.0.1:56826 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56893 [200]: /css/vendor.min.css
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56894 [200]: /css/styles.min.css
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56895 [200]: /customizer/customizer.min.css
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56896 [200]: /js/modernizr.min.js
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56897 [200]: /js/vendor.min.js
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56898 [200]: /js/scripts.min.js
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56899 [200]: /customizer/customizer.min.js
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56900 [200]: /img/logo/logo.png
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56901 [200]: /img/hero-slider/logo01.png
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56902 [200]: /img/hero-slider/01.png
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56903 [200]: /img/hero-slider/logo02.png
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56904 [200]: /img/hero-slider/02.png
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56905 [200]: /img/hero-slider/logo03.png
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56906 [200]: /img/hero-slider/03.png
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56908 [200]: /fonts/feather-webfont.woff
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56909 [200]: /img/hero-slider/main-bg.jpg
+[Wed Oct 18 19:16:04 2017] 127.0.0.1:56910 [200]: /favicon.ico
+[Wed Oct 18 19:16:12 2017] 127.0.0.1:56916 [200]: /favicon.ico
+[Wed Oct 18 19:16:25 2017] 127.0.0.1:56917 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:16:25 2017] 127.0.0.1:56918 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:16:25 2017] 127.0.0.1:56919 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:16:25 2017] 127.0.0.1:56920 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:17:42 2017] 127.0.0.1:56925 [200]: /favicon.ico
+[Wed Oct 18 19:17:44 2017] 127.0.0.1:56927 [200]: /favicon.ico
+[Wed Oct 18 19:17:47 2017] 127.0.0.1:56929 [200]: /favicon.ico
+[Wed Oct 18 19:17:51 2017] 127.0.0.1:56934 [200]: /favicon.ico
+[Wed Oct 18 19:17:55 2017] 127.0.0.1:56945 [200]: /favicon.ico
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56949 [200]: /css/vendor.min.css
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56952 [200]: /css/styles.min.css
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56953 [200]: /customizer/customizer.min.css
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56954 [200]: /js/modernizr.min.js
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56955 [200]: /js/vendor.min.js
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56956 [200]: /js/scripts.min.js
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56957 [200]: /customizer/customizer.min.js
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56958 [200]: /img/logo/logo.png
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56959 [200]: /img/hero-slider/logo01.png
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56960 [200]: /img/hero-slider/01.png
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56961 [200]: /img/hero-slider/logo02.png
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56962 [200]: /img/hero-slider/02.png
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56963 [200]: /img/hero-slider/logo03.png
+[Wed Oct 18 19:18:00 2017] 127.0.0.1:56964 [200]: /img/hero-slider/03.png
+[Wed Oct 18 19:18:01 2017] 127.0.0.1:56966 [200]: /fonts/feather-webfont.woff
+[Wed Oct 18 19:18:01 2017] 127.0.0.1:56967 [200]: /img/hero-slider/main-bg.jpg
+[Wed Oct 18 19:18:01 2017] 127.0.0.1:56968 [200]: /favicon.ico
+[Wed Oct 18 19:18:06 2017] 127.0.0.1:56972 [200]: /img/banners/02.jpg
+[Wed Oct 18 19:18:06 2017] 127.0.0.1:56973 [200]: /img/banners/03.jpg
+[Wed Oct 18 19:19:31 2017] 127.0.0.1:56976 [200]: /favicon.ico
+[Wed Oct 18 19:19:47 2017] 127.0.0.1:56977 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:19:47 2017] 127.0.0.1:56978 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:19:47 2017] 127.0.0.1:56979 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:19:47 2017] 127.0.0.1:56980 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:19:48 2017] 127.0.0.1:56991 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:19:48 2017] 127.0.0.1:56994 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:25:57 2017] 127.0.0.1:57018 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:25:57 2017] 127.0.0.1:57024 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:25:57 2017] 127.0.0.1:57021 [200]: /css/font-awesome.css
+[Wed Oct 18 19:25:57 2017] 127.0.0.1:57022 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:25:57 2017] 127.0.0.1:57023 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:25:57 2017] 127.0.0.1:57025 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:25:58 2017] 127.0.0.1:57027 [200]: /js/app.min.js
+[Wed Oct 18 19:25:59 2017] 127.0.0.1:57032 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:26:32 2017] 127.0.0.1:57037 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:26:32 2017] 127.0.0.1:57039 [200]: /css/font-awesome.css
+[Wed Oct 18 19:26:32 2017] 127.0.0.1:57040 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:26:32 2017] 127.0.0.1:57041 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:26:32 2017] 127.0.0.1:57042 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:26:32 2017] 127.0.0.1:57043 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:26:32 2017] 127.0.0.1:57045 [200]: /js/app.min.js
+[Wed Oct 18 19:26:32 2017] 127.0.0.1:57046 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:26:35 2017] 127.0.0.1:57052 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:26:35 2017] 127.0.0.1:57057 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:26:35 2017] 127.0.0.1:57054 [200]: /css/font-awesome.css
+[Wed Oct 18 19:26:35 2017] 127.0.0.1:57055 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:26:35 2017] 127.0.0.1:57058 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:26:35 2017] 127.0.0.1:57059 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:26:35 2017] 127.0.0.1:57060 [200]: /js/app.min.js
+[Wed Oct 18 19:26:35 2017] 127.0.0.1:57061 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:31:41 2017] 127.0.0.1:57086 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:31:41 2017] 127.0.0.1:57088 [200]: /css/font-awesome.css
+[Wed Oct 18 19:31:41 2017] 127.0.0.1:57089 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:31:41 2017] 127.0.0.1:57091 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:31:41 2017] 127.0.0.1:57090 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:31:41 2017] 127.0.0.1:57092 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:31:42 2017] 127.0.0.1:57094 [200]: /js/app.min.js
+[Wed Oct 18 19:31:42 2017] 127.0.0.1:57097 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:31:44 2017] 127.0.0.1:57103 [200]: /favicon.ico
+[Wed Oct 18 19:33:25 2017] 127.0.0.1:57118 [200]: /favicon.ico
+[Wed Oct 18 19:33:44 2017] 127.0.0.1:57119 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:33:44 2017] 127.0.0.1:57120 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:35:00 2017] 127.0.0.1:57136 [200]: /favicon.ico
+[Wed Oct 18 19:35:19 2017] 127.0.0.1:57137 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:35:19 2017] 127.0.0.1:57138 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:37:47 2017] 127.0.0.1:57156 [200]: /favicon.ico
+[Wed Oct 18 19:38:05 2017] 127.0.0.1:57157 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:38:05 2017] 127.0.0.1:57158 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:38:05 2017] 127.0.0.1:57170 [200]: /favicon.ico
+[Wed Oct 18 19:38:08 2017] 127.0.0.1:57173 [200]: /favicon.ico
+[Wed Oct 18 19:38:27 2017] 127.0.0.1:57176 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:38:27 2017] 127.0.0.1:57177 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:40:00 2017] 127.0.0.1:57188 [200]: /favicon.ico
+[Wed Oct 18 19:40:25 2017] 127.0.0.1:57189 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:40:25 2017] 127.0.0.1:57190 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:40:25 2017] 127.0.0.1:57191 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:40:25 2017] 127.0.0.1:57192 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:40:25 2017] 127.0.0.1:57200 [200]: /favicon.ico
+[Wed Oct 18 19:40:29 2017] 127.0.0.1:57204 [200]: /favicon.ico
+[Wed Oct 18 19:40:48 2017] 127.0.0.1:57205 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:41:18 2017] 127.0.0.1:57217 [200]: /favicon.ico
+[Wed Oct 18 19:41:29 2017] 127.0.0.1:57221 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:41:29 2017] 127.0.0.1:57218 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:41:30 2017] 127.0.0.1:57219 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:41:30 2017] 127.0.0.1:57220 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:41:30 2017] 127.0.0.1:57226 [200]: /favicon.ico
+[Wed Oct 18 19:42:02 2017] 127.0.0.1:57227 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:42:02 2017] 127.0.0.1:57228 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:42:02 2017] 127.0.0.1:57229 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:42:02 2017] 127.0.0.1:57230 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:42:02 2017] 127.0.0.1:57235 [200]: /favicon.ico
+[Wed Oct 18 19:42:03 2017] 127.0.0.1:57236 [200]: /favicon.ico
+[Wed Oct 18 19:42:10 2017] 127.0.0.1:57238 [200]: /favicon.ico
+[Wed Oct 18 19:42:22 2017] 127.0.0.1:57239 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:42:22 2017] 127.0.0.1:57249 [200]: /favicon.ico
+[Wed Oct 18 19:42:25 2017] 127.0.0.1:57250 [200]: /favicon.ico
+[Wed Oct 18 19:42:28 2017] 127.0.0.1:57265 [200]: /favicon.ico
+[Wed Oct 18 19:43:00 2017] 127.0.0.1:57272 [200]: /favicon.ico
+[Wed Oct 18 19:43:05 2017] 127.0.0.1:57274 [200]: /favicon.ico
+[Wed Oct 18 19:43:24 2017] 127.0.0.1:57281 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:43:24 2017] 127.0.0.1:57282 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:43:24 2017] 127.0.0.1:57283 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:43:24 2017] 127.0.0.1:57284 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:44:37 2017] 127.0.0.1:57289 [200]: /favicon.ico
+[Wed Oct 18 19:44:40 2017] 127.0.0.1:57293 [200]: /favicon.ico
+[Wed Oct 18 19:44:46 2017] 127.0.0.1:57305 [200]: /favicon.ico
+[Wed Oct 18 19:44:57 2017] 127.0.0.1:57306 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:44:57 2017] 127.0.0.1:57307 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:44:57 2017] 127.0.0.1:57308 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:44:57 2017] 127.0.0.1:57309 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:45:16 2017] 127.0.0.1:57315 [200]: /favicon.ico
+[Wed Oct 18 19:45:20 2017] 127.0.0.1:57319 [200]: /favicon.ico
+[Wed Oct 18 19:45:37 2017] 127.0.0.1:57320 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:46:33 2017] 127.0.0.1:57330 [200]: /favicon.ico
+[Wed Oct 18 19:46:35 2017] 127.0.0.1:57333 [200]: /favicon.ico
+[Wed Oct 18 19:46:40 2017] 127.0.0.1:57335 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:46:40 2017] 127.0.0.1:57342 [200]: /css/font-awesome.css
+[Wed Oct 18 19:46:40 2017] 127.0.0.1:57343 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:46:40 2017] 127.0.0.1:57352 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:46:40 2017] 127.0.0.1:57353 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:46:40 2017] 127.0.0.1:57354 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:46:40 2017] 127.0.0.1:57356 [200]: /js/app.min.js
+[Wed Oct 18 19:46:40 2017] 127.0.0.1:57357 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:46:42 2017] 127.0.0.1:57361 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:46:42 2017] 127.0.0.1:57363 [200]: /css/font-awesome.css
+[Wed Oct 18 19:46:42 2017] 127.0.0.1:57364 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:46:42 2017] 127.0.0.1:57365 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:46:42 2017] 127.0.0.1:57366 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:46:42 2017] 127.0.0.1:57367 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:46:43 2017] 127.0.0.1:57369 [200]: /js/app.min.js
+[Wed Oct 18 19:46:43 2017] 127.0.0.1:57370 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:47:27 2017] 127.0.0.1:57379 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:47:28 2017] 127.0.0.1:57381 [200]: /css/font-awesome.css
+[Wed Oct 18 19:47:28 2017] 127.0.0.1:57382 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:47:28 2017] 127.0.0.1:57383 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:47:28 2017] 127.0.0.1:57384 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:47:28 2017] 127.0.0.1:57385 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:47:28 2017] 127.0.0.1:57387 [200]: /js/app.min.js
+[Wed Oct 18 19:47:28 2017] 127.0.0.1:57388 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:47:39 2017] 127.0.0.1:57399 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:47:39 2017] 127.0.0.1:57401 [200]: /css/font-awesome.css
+[Wed Oct 18 19:47:39 2017] 127.0.0.1:57402 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:47:39 2017] 127.0.0.1:57403 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:47:39 2017] 127.0.0.1:57404 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:47:39 2017] 127.0.0.1:57405 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:47:39 2017] 127.0.0.1:57407 [200]: /js/app.min.js
+[Wed Oct 18 19:47:39 2017] 127.0.0.1:57408 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:48:27 2017] 127.0.0.1:57434 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:48:27 2017] 127.0.0.1:57436 [200]: /css/font-awesome.css
+[Wed Oct 18 19:48:27 2017] 127.0.0.1:57437 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:48:27 2017] 127.0.0.1:57438 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:48:27 2017] 127.0.0.1:57441 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:48:27 2017] 127.0.0.1:57440 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:48:27 2017] 127.0.0.1:57442 [200]: /js/app.min.js
+[Wed Oct 18 19:48:27 2017] 127.0.0.1:57444 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:48:30 2017] 127.0.0.1:57450 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:48:30 2017] 127.0.0.1:57452 [200]: /css/font-awesome.css
+[Wed Oct 18 19:48:30 2017] 127.0.0.1:57453 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:48:30 2017] 127.0.0.1:57454 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:48:30 2017] 127.0.0.1:57455 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:48:30 2017] 127.0.0.1:57456 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:48:30 2017] 127.0.0.1:57458 [200]: /js/app.min.js
+[Wed Oct 18 19:48:30 2017] 127.0.0.1:57459 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:48:36 2017] 127.0.0.1:57467 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:48:36 2017] 127.0.0.1:57469 [200]: /css/font-awesome.css
+[Wed Oct 18 19:48:36 2017] 127.0.0.1:57470 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:48:36 2017] 127.0.0.1:57471 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:48:36 2017] 127.0.0.1:57472 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:48:36 2017] 127.0.0.1:57474 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:48:36 2017] 127.0.0.1:57475 [200]: /js/app.min.js
+[Wed Oct 18 19:48:36 2017] 127.0.0.1:57476 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:48:41 2017] 127.0.0.1:57489 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:48:41 2017] 127.0.0.1:57482 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:48:41 2017] 127.0.0.1:57483 [200]: /css/font-awesome.css
+[Wed Oct 18 19:48:41 2017] 127.0.0.1:57490 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:48:41 2017] 127.0.0.1:57491 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:48:41 2017] 127.0.0.1:57492 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:48:41 2017] 127.0.0.1:57494 [200]: /js/app.min.js
+[Wed Oct 18 19:48:41 2017] 127.0.0.1:57495 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:48:53 2017] 127.0.0.1:57510 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:48:53 2017] 127.0.0.1:57505 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:48:53 2017] 127.0.0.1:57506 [200]: /css/font-awesome.css
+[Wed Oct 18 19:48:53 2017] 127.0.0.1:57507 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:48:53 2017] 127.0.0.1:57508 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:48:53 2017] 127.0.0.1:57509 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:48:53 2017] 127.0.0.1:57511 [200]: /js/app.min.js
+[Wed Oct 18 19:48:53 2017] 127.0.0.1:57513 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:49:07 2017] 127.0.0.1:57519 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:49:08 2017] 127.0.0.1:57521 [200]: /css/font-awesome.css
+[Wed Oct 18 19:49:08 2017] 127.0.0.1:57522 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:49:08 2017] 127.0.0.1:57523 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:49:08 2017] 127.0.0.1:57524 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:49:08 2017] 127.0.0.1:57525 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:49:08 2017] 127.0.0.1:57527 [200]: /js/app.min.js
+[Wed Oct 18 19:49:08 2017] 127.0.0.1:57528 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:49:16 2017] 127.0.0.1:57537 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:49:16 2017] 127.0.0.1:57539 [200]: /css/font-awesome.css
+[Wed Oct 18 19:49:16 2017] 127.0.0.1:57540 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:49:16 2017] 127.0.0.1:57541 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:49:16 2017] 127.0.0.1:57542 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:49:16 2017] 127.0.0.1:57543 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:49:16 2017] 127.0.0.1:57545 [200]: /js/app.min.js
+[Wed Oct 18 19:49:16 2017] 127.0.0.1:57546 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:49:19 2017] 127.0.0.1:57552 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:49:20 2017] 127.0.0.1:57554 [200]: /css/font-awesome.css
+[Wed Oct 18 19:49:20 2017] 127.0.0.1:57555 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:49:20 2017] 127.0.0.1:57556 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:49:20 2017] 127.0.0.1:57557 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:49:20 2017] 127.0.0.1:57558 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:49:20 2017] 127.0.0.1:57560 [200]: /js/app.min.js
+[Wed Oct 18 19:49:20 2017] 127.0.0.1:57561 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:49:25 2017] 127.0.0.1:57577 [200]: /css/font-awesome.css
+[Wed Oct 18 19:49:25 2017] 127.0.0.1:57571 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:49:25 2017] 127.0.0.1:57578 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:49:25 2017] 127.0.0.1:57579 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:49:25 2017] 127.0.0.1:57580 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:49:25 2017] 127.0.0.1:57583 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:49:25 2017] 127.0.0.1:57585 [200]: /js/app.min.js
+[Wed Oct 18 19:49:25 2017] 127.0.0.1:57586 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:49:55 2017] 127.0.0.1:57593 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:49:55 2017] 127.0.0.1:57595 [200]: /css/font-awesome.css
+[Wed Oct 18 19:49:55 2017] 127.0.0.1:57596 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:49:55 2017] 127.0.0.1:57597 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:49:55 2017] 127.0.0.1:57598 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:49:55 2017] 127.0.0.1:57599 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:49:56 2017] 127.0.0.1:57601 [200]: /js/app.min.js
+[Wed Oct 18 19:49:56 2017] 127.0.0.1:57602 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:50:09 2017] 127.0.0.1:57608 [200]: /css/bootstrap.min.css
+[Wed Oct 18 19:50:09 2017] 127.0.0.1:57610 [200]: /css/font-awesome.css
+[Wed Oct 18 19:50:09 2017] 127.0.0.1:57611 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 19:50:09 2017] 127.0.0.1:57612 [200]: /css/_all-skins.min.css
+[Wed Oct 18 19:50:09 2017] 127.0.0.1:57613 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 19:50:10 2017] 127.0.0.1:57615 [200]: /js/bootstrap.min.js
+[Wed Oct 18 19:50:10 2017] 127.0.0.1:57616 [200]: /js/app.min.js
+[Wed Oct 18 19:50:10 2017] 127.0.0.1:57617 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 19:50:31 2017] 127.0.0.1:57623 Invalid request (Unexpected EOF)
+[Wed Oct 18 19:50:31 2017] 127.0.0.1:57624 Invalid request (Unexpected EOF)
+^C
+C:\Tenta>
+C:\Tenta>
+C:\Tenta>php artisan crud:generate Posts --fields_from_file="generador/administrador.json"
+ Controller created successfully.
+Model created successfully.
+Migration created successfully.
+View created successfully.
+Crud/Resource route added to C:\Tenta\routes/web.php
+
+C:\Tenta>php artisan crud:generate Administrador --fields_from_file="generador/administrador.json"
+ Controller created successfully.
+Model created successfully.
+Migration created successfully.
+View created successfully.
+Crud/Resource route added to C:\Tenta\routes/web.php
+
+C:\Tenta>.env
+
+C:\Tenta>
+C:\Tenta>php artisan migrate
+ Migrating: 2017_10_19_000037_create_posts_table
+Migrated:  2017_10_19_000037_create_posts_table
+Migrating: 2017_10_19_000237_create_administradors_table
+Migrated:  2017_10_19_000237_create_administradors_table
+
+C:\Tenta>php artisan serve
+ Laravel development server started: <http://127.0.0.1:8000>
+[Wed Oct 18 20:10:07 2017] 127.0.0.1:57739 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:10:07 2017] 127.0.0.1:57740 [200]: /css/font-awesome.css
+[Wed Oct 18 20:10:07 2017] 127.0.0.1:57741 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:10:07 2017] 127.0.0.1:57742 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:10:07 2017] 127.0.0.1:57743 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:10:07 2017] 127.0.0.1:57744 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:10:07 2017] 127.0.0.1:57745 [200]: /js/app.min.js
+[Wed Oct 18 20:10:07 2017] 127.0.0.1:57747 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:10:12 2017] 127.0.0.1:57755 [200]: /favicon.ico
+[Wed Oct 18 20:11:04 2017] 127.0.0.1:57766 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:11:04 2017] 127.0.0.1:57759 [200]: /css/font-awesome.css
+[Wed Oct 18 20:11:04 2017] 127.0.0.1:57761 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:11:04 2017] 127.0.0.1:57767 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:11:04 2017] 127.0.0.1:57768 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:11:04 2017] 127.0.0.1:57769 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:11:04 2017] 127.0.0.1:57771 [200]: /js/app.min.js
+[Wed Oct 18 20:11:04 2017] 127.0.0.1:57772 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:11:06 2017] 127.0.0.1:57780 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:11:06 2017] 127.0.0.1:57782 [200]: /css/font-awesome.css
+[Wed Oct 18 20:11:06 2017] 127.0.0.1:57783 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:11:06 2017] 127.0.0.1:57784 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:11:06 2017] 127.0.0.1:57785 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:11:06 2017] 127.0.0.1:57786 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:11:07 2017] 127.0.0.1:57788 [200]: /js/app.min.js
+[Wed Oct 18 20:11:07 2017] 127.0.0.1:57789 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:11:12 2017] 127.0.0.1:57799 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:11:12 2017] 127.0.0.1:57801 [200]: /css/font-awesome.css
+[Wed Oct 18 20:11:12 2017] 127.0.0.1:57802 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:11:12 2017] 127.0.0.1:57803 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:11:13 2017] 127.0.0.1:57805 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:11:13 2017] 127.0.0.1:57806 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:11:13 2017] 127.0.0.1:57807 [200]: /js/app.min.js
+[Wed Oct 18 20:11:13 2017] 127.0.0.1:57808 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:11:55 2017] 127.0.0.1:57856 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:11:56 2017] 127.0.0.1:57858 [200]: /css/font-awesome.css
+[Wed Oct 18 20:11:56 2017] 127.0.0.1:57859 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:11:56 2017] 127.0.0.1:57860 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:11:56 2017] 127.0.0.1:57861 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:11:56 2017] 127.0.0.1:57862 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:11:56 2017] 127.0.0.1:57864 [200]: /js/app.min.js
+[Wed Oct 18 20:11:56 2017] 127.0.0.1:57865 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:12:02 2017] 127.0.0.1:57876 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:12:02 2017] 127.0.0.1:57878 [200]: /css/font-awesome.css
+[Wed Oct 18 20:12:02 2017] 127.0.0.1:57879 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:12:02 2017] 127.0.0.1:57880 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:12:02 2017] 127.0.0.1:57881 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:12:02 2017] 127.0.0.1:57884 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:12:02 2017] 127.0.0.1:57886 [200]: /js/app.min.js
+[Wed Oct 18 20:12:02 2017] 127.0.0.1:57887 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+^C
+C:\Tenta>
+C:\Tenta>php artisan crud:generate Compra --fields_from_file="generador/compra.json"
+ Controller created successfully.
+Model already exists!
+Migration created successfully.
+View created successfully.
+Crud/Resource route added to C:\Tenta\routes/web.php
+
+C:\Tenta>php artisan migrate
+ Migrating: 2017_10_19_002027_create_compras_table
+Migrated:  2017_10_19_002027_create_compras_table
+
+C:\Tenta>php artisan serve
+ Laravel development server started: <http://127.0.0.1:8000>
+[Wed Oct 18 20:23:03 2017] 127.0.0.1:57964 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:23:03 2017] 127.0.0.1:57966 [200]: /css/font-awesome.css
+[Wed Oct 18 20:23:03 2017] 127.0.0.1:57967 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:23:03 2017] 127.0.0.1:57968 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:23:03 2017] 127.0.0.1:57969 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:23:03 2017] 127.0.0.1:57970 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:23:03 2017] 127.0.0.1:57972 [200]: /js/app.min.js
+[Wed Oct 18 20:23:03 2017] 127.0.0.1:57973 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:23:07 2017] 127.0.0.1:57982 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:23:07 2017] 127.0.0.1:57984 [200]: /css/font-awesome.css
+[Wed Oct 18 20:23:07 2017] 127.0.0.1:57985 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:23:07 2017] 127.0.0.1:57986 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:23:07 2017] 127.0.0.1:57987 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:23:07 2017] 127.0.0.1:57990 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:23:07 2017] 127.0.0.1:57992 [200]: /js/app.min.js
+[Wed Oct 18 20:23:07 2017] 127.0.0.1:57993 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:23:09 2017] 127.0.0.1:57996 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:23:09 2017] 127.0.0.1:57998 [200]: /css/font-awesome.css
+[Wed Oct 18 20:23:09 2017] 127.0.0.1:57999 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:23:09 2017] 127.0.0.1:58000 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:23:09 2017] 127.0.0.1:58001 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:23:09 2017] 127.0.0.1:58002 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:23:10 2017] 127.0.0.1:58006 [200]: /js/app.min.js
+[Wed Oct 18 20:23:10 2017] 127.0.0.1:58007 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+^C
+C:\Tenta>php artisna serve
+Could not open input file: artisna
+
+C:\Tenta>php artisan serve
+ Laravel development server started: <http://127.0.0.1:8000>
+[Wed Oct 18 20:46:05 2017] 127.0.0.1:58058 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:46:05 2017] 127.0.0.1:58060 [200]: /css/font-awesome.css
+[Wed Oct 18 20:46:05 2017] 127.0.0.1:58061 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:46:05 2017] 127.0.0.1:58062 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:46:05 2017] 127.0.0.1:58063 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:46:05 2017] 127.0.0.1:58066 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:46:05 2017] 127.0.0.1:58067 [200]: /js/app.min.js
+[Wed Oct 18 20:46:05 2017] 127.0.0.1:58068 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:46:07 2017] 127.0.0.1:58072 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:46:07 2017] 127.0.0.1:58074 [200]: /css/font-awesome.css
+[Wed Oct 18 20:46:07 2017] 127.0.0.1:58075 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:46:07 2017] 127.0.0.1:58076 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:46:07 2017] 127.0.0.1:58077 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:46:07 2017] 127.0.0.1:58080 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:46:08 2017] 127.0.0.1:58082 [200]: /js/app.min.js
+[Wed Oct 18 20:46:08 2017] 127.0.0.1:58083 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:46:58 2017] 127.0.0.1:58092 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:46:58 2017] 127.0.0.1:58094 [200]: /css/font-awesome.css
+[Wed Oct 18 20:46:58 2017] 127.0.0.1:58095 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:46:58 2017] 127.0.0.1:58096 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:46:58 2017] 127.0.0.1:58098 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:46:58 2017] 127.0.0.1:58102 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:46:59 2017] 127.0.0.1:58104 [200]: /js/app.min.js
+[Wed Oct 18 20:46:59 2017] 127.0.0.1:58105 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:47:09 2017] 127.0.0.1:58108 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:47:09 2017] 127.0.0.1:58110 [200]: /css/font-awesome.css
+[Wed Oct 18 20:47:09 2017] 127.0.0.1:58111 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:47:09 2017] 127.0.0.1:58112 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:47:09 2017] 127.0.0.1:58114 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:47:09 2017] 127.0.0.1:58115 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:47:09 2017] 127.0.0.1:58117 [200]: /js/app.min.js
+[Wed Oct 18 20:47:09 2017] 127.0.0.1:58118 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:47:19 2017] 127.0.0.1:58126 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:47:20 2017] 127.0.0.1:58129 [200]: /css/font-awesome.css
+[Wed Oct 18 20:47:20 2017] 127.0.0.1:58130 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:47:20 2017] 127.0.0.1:58131 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:47:20 2017] 127.0.0.1:58132 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:47:20 2017] 127.0.0.1:58137 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:47:20 2017] 127.0.0.1:58139 [200]: /js/app.min.js
+[Wed Oct 18 20:47:20 2017] 127.0.0.1:58140 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:47:44 2017] 127.0.0.1:58146 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:47:45 2017] 127.0.0.1:58148 [200]: /css/font-awesome.css
+[Wed Oct 18 20:47:45 2017] 127.0.0.1:58149 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:47:45 2017] 127.0.0.1:58150 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:47:45 2017] 127.0.0.1:58153 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:47:45 2017] 127.0.0.1:58154 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:47:45 2017] 127.0.0.1:58156 [200]: /js/app.min.js
+[Wed Oct 18 20:47:45 2017] 127.0.0.1:58157 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:47:50 2017] 127.0.0.1:58169 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:47:50 2017] 127.0.0.1:58170 [200]: /css/font-awesome.css
+[Wed Oct 18 20:47:50 2017] 127.0.0.1:58171 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:47:50 2017] 127.0.0.1:58172 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:47:50 2017] 127.0.0.1:58173 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:47:50 2017] 127.0.0.1:58176 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:47:50 2017] 127.0.0.1:58178 [200]: /js/app.min.js
+[Wed Oct 18 20:47:50 2017] 127.0.0.1:58179 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:49:13 2017] 127.0.0.1:58185 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:49:13 2017] 127.0.0.1:58187 [200]: /css/font-awesome.css
+[Wed Oct 18 20:49:13 2017] 127.0.0.1:58188 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:49:13 2017] 127.0.0.1:58189 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:49:13 2017] 127.0.0.1:58190 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:49:13 2017] 127.0.0.1:58191 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:49:13 2017] 127.0.0.1:58193 [200]: /js/app.min.js
+[Wed Oct 18 20:49:13 2017] 127.0.0.1:58194 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:49:46 2017] 127.0.0.1:58216 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:49:46 2017] 127.0.0.1:58225 [200]: /css/font-awesome.css
+[Wed Oct 18 20:49:46 2017] 127.0.0.1:58226 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:49:46 2017] 127.0.0.1:58227 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:49:46 2017] 127.0.0.1:58228 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:49:46 2017] 127.0.0.1:58229 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:49:46 2017] 127.0.0.1:58231 [200]: /js/app.min.js
+[Wed Oct 18 20:49:46 2017] 127.0.0.1:58232 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:49:49 2017] 127.0.0.1:58238 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:49:49 2017] 127.0.0.1:58240 [200]: /css/font-awesome.css
+[Wed Oct 18 20:49:49 2017] 127.0.0.1:58241 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:49:49 2017] 127.0.0.1:58242 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:49:50 2017] 127.0.0.1:58244 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:49:50 2017] 127.0.0.1:58245 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:49:50 2017] 127.0.0.1:58246 [200]: /js/app.min.js
+[Wed Oct 18 20:49:50 2017] 127.0.0.1:58247 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:49:55 2017] 127.0.0.1:58254 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:49:55 2017] 127.0.0.1:58256 [200]: /css/font-awesome.css
+[Wed Oct 18 20:49:55 2017] 127.0.0.1:58257 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:49:55 2017] 127.0.0.1:58258 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:49:55 2017] 127.0.0.1:58259 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:49:55 2017] 127.0.0.1:58260 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:49:55 2017] 127.0.0.1:58262 [200]: /js/app.min.js
+[Wed Oct 18 20:49:55 2017] 127.0.0.1:58263 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:50:00 2017] 127.0.0.1:58269 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:50:00 2017] 127.0.0.1:58271 [200]: /css/font-awesome.css
+[Wed Oct 18 20:50:00 2017] 127.0.0.1:58272 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:50:00 2017] 127.0.0.1:58273 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:50:00 2017] 127.0.0.1:58274 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:50:00 2017] 127.0.0.1:58275 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:50:01 2017] 127.0.0.1:58277 [200]: /js/app.min.js
+[Wed Oct 18 20:50:01 2017] 127.0.0.1:58278 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:50:04 2017] 127.0.0.1:58284 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:50:04 2017] 127.0.0.1:58286 [200]: /css/font-awesome.css
+[Wed Oct 18 20:50:04 2017] 127.0.0.1:58287 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:50:04 2017] 127.0.0.1:58288 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:50:04 2017] 127.0.0.1:58289 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:50:04 2017] 127.0.0.1:58290 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:50:04 2017] 127.0.0.1:58292 [200]: /js/app.min.js
+[Wed Oct 18 20:50:04 2017] 127.0.0.1:58293 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:50:06 2017] 127.0.0.1:58297 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:50:06 2017] 127.0.0.1:58299 [200]: /css/font-awesome.css
+[Wed Oct 18 20:50:06 2017] 127.0.0.1:58300 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:50:06 2017] 127.0.0.1:58301 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:50:06 2017] 127.0.0.1:58302 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:50:06 2017] 127.0.0.1:58303 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:50:06 2017] 127.0.0.1:58305 [200]: /js/app.min.js
+[Wed Oct 18 20:50:06 2017] 127.0.0.1:58306 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:50:22 2017] 127.0.0.1:58316 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:50:22 2017] 127.0.0.1:58318 [200]: /css/font-awesome.css
+[Wed Oct 18 20:50:22 2017] 127.0.0.1:58319 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:50:22 2017] 127.0.0.1:58320 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:50:22 2017] 127.0.0.1:58321 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:50:22 2017] 127.0.0.1:58322 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:50:22 2017] 127.0.0.1:58324 [200]: /js/app.min.js
+[Wed Oct 18 20:50:22 2017] 127.0.0.1:58325 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:53:34 2017] 127.0.0.1:58349 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:53:34 2017] 127.0.0.1:58351 [200]: /css/font-awesome.css
+[Wed Oct 18 20:53:34 2017] 127.0.0.1:58352 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:53:34 2017] 127.0.0.1:58353 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:53:34 2017] 127.0.0.1:58354 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:53:34 2017] 127.0.0.1:58355 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:53:34 2017] 127.0.0.1:58357 [200]: /js/app.min.js
+[Wed Oct 18 20:53:34 2017] 127.0.0.1:58358 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:53:35 2017] 127.0.0.1:58365 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:53:35 2017] 127.0.0.1:58367 [200]: /css/font-awesome.css
+[Wed Oct 18 20:53:35 2017] 127.0.0.1:58368 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:53:35 2017] 127.0.0.1:58369 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:53:35 2017] 127.0.0.1:58370 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:53:35 2017] 127.0.0.1:58371 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:53:35 2017] 127.0.0.1:58373 [200]: /js/app.min.js
+[Wed Oct 18 20:53:35 2017] 127.0.0.1:58374 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:53:39 2017] 127.0.0.1:58382 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:53:40 2017] 127.0.0.1:58384 [200]: /css/font-awesome.css
+[Wed Oct 18 20:53:40 2017] 127.0.0.1:58385 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:53:40 2017] 127.0.0.1:58386 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:53:40 2017] 127.0.0.1:58387 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:53:40 2017] 127.0.0.1:58390 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:53:40 2017] 127.0.0.1:58392 [200]: /js/app.min.js
+[Wed Oct 18 20:53:40 2017] 127.0.0.1:58393 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:57:03 2017] 127.0.0.1:58423 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:57:03 2017] 127.0.0.1:58427 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:57:03 2017] 127.0.0.1:58425 [200]: /css/font-awesome.css
+[Wed Oct 18 20:57:03 2017] 127.0.0.1:58428 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:57:03 2017] 127.0.0.1:58429 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:57:03 2017] 127.0.0.1:58430 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:57:04 2017] 127.0.0.1:58432 [200]: /js/app.min.js
+[Wed Oct 18 20:57:04 2017] 127.0.0.1:58433 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 20:57:08 2017] 127.0.0.1:58443 [200]: /css/bootstrap.min.css
+[Wed Oct 18 20:57:09 2017] 127.0.0.1:58445 [200]: /css/font-awesome.css
+[Wed Oct 18 20:57:09 2017] 127.0.0.1:58446 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 20:57:09 2017] 127.0.0.1:58447 [200]: /css/_all-skins.min.css
+[Wed Oct 18 20:57:09 2017] 127.0.0.1:58448 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 20:57:09 2017] 127.0.0.1:58449 [200]: /js/bootstrap.min.js
+[Wed Oct 18 20:57:09 2017] 127.0.0.1:58451 [200]: /js/app.min.js
+[Wed Oct 18 20:57:09 2017] 127.0.0.1:58452 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+^C
+C:\Tenta>php artisan crud:generate Compra --fields_from_file="generador/compra.json"
+ Controller created successfully.
+Model created successfully.
+Migration created successfully.
+View created successfully.
+Crud/Resource route added to C:\Tenta\routes/web.php
+
+C:\Tenta>php artisan migrate
+ Migrating: 2017_10_19_010012_create_compras_table
+Migrated:  2017_10_19_010012_create_compras_table
+
+C:\Tenta>php artisan crud:generate Administrador --fields_from_file="generador/administrador.json"
+ Controller already exists!
+Model already exists!
+Migration created successfully.
+View created successfully.
+Crud/Resource route added to C:\Tenta\routes/web.php
+
+C:\Tenta>php artisan crud:generate Compra --fields_from_file="generador/compra.json"
+ Controller created successfully.
+Model created successfully.
+Migration created successfully.
+View created successfully.
+Crud/Resource route added to C:\Tenta\routes/web.php
+
+C:\Tenta>php artisan migrate
+
+
+  [Illuminate\Database\QueryException]
+  SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'administradors' already exists (SQL: create table `
+  administradors` (`id` int unsigned not null auto_increment primary key, `Nombre` varchar(191) not null, `estado` va
+  rchar(191) not null, `created_at` timestamp null, `updated_at` timestamp null) default character set utf8mb4 collat
+  e utf8mb4_unicode_ci)
+
+
+
+  [PDOException]
+  SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'administradors' already exists
+
+
+
+C:\Tenta>php artisan migrate
+ Migrating: 2017_10_19_010333_create_compras_table
+Migrated:  2017_10_19_010333_create_compras_table
+
+C:\Tenta>php artisan serve
+ Laravel development server started: <http://127.0.0.1:8000>
+[Wed Oct 18 21:08:43 2017] PHP Fatal error:  Class 'proyecto\Http\Controllers\Administrador' not found in C:\Tenta\app\Http\Controllers\CompraController.php on line 43
+[Wed Oct 18 21:08:44 2017] 127.0.0.1:58607 [200]: /favicon.ico
+[Wed Oct 18 21:08:52 2017] PHP Fatal error:  Class 'proyecto\Http\Controllers\Administrador' not found in C:\Tenta\app\Http\Controllers\CompraController.php on line 43
+[Wed Oct 18 21:08:52 2017] 127.0.0.1:58612 [200]: /favicon.ico
+[Wed Oct 18 21:09:06 2017] 127.0.0.1:58613 Invalid request (Unexpected EOF)
+[Wed Oct 18 21:09:12 2017] 127.0.0.1:58620 [200]: /css/font-awesome.css
+[Wed Oct 18 21:09:12 2017] 127.0.0.1:58618 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:09:12 2017] 127.0.0.1:58621 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:09:12 2017] 127.0.0.1:58622 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:09:12 2017] 127.0.0.1:58623 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:09:12 2017] 127.0.0.1:58624 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:09:12 2017] 127.0.0.1:58626 [200]: /js/app.min.js
+[Wed Oct 18 21:09:12 2017] 127.0.0.1:58627 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:09:17 2017] 127.0.0.1:58633 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:09:17 2017] 127.0.0.1:58635 [200]: /css/font-awesome.css
+[Wed Oct 18 21:09:17 2017] 127.0.0.1:58636 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:09:17 2017] 127.0.0.1:58637 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:09:17 2017] 127.0.0.1:58638 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:09:17 2017] 127.0.0.1:58639 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:09:17 2017] 127.0.0.1:58641 [200]: /js/app.min.js
+[Wed Oct 18 21:09:17 2017] 127.0.0.1:58642 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:09:20 2017] 127.0.0.1:58648 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:09:20 2017] 127.0.0.1:58650 [200]: /css/font-awesome.css
+[Wed Oct 18 21:09:20 2017] 127.0.0.1:58651 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:09:20 2017] 127.0.0.1:58652 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:09:20 2017] 127.0.0.1:58653 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:09:20 2017] 127.0.0.1:58654 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:09:21 2017] 127.0.0.1:58656 [200]: /js/app.min.js
+[Wed Oct 18 21:09:21 2017] 127.0.0.1:58657 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:09:23 2017] 127.0.0.1:58663 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:09:23 2017] 127.0.0.1:58665 [200]: /css/font-awesome.css
+[Wed Oct 18 21:09:23 2017] 127.0.0.1:58666 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:09:23 2017] 127.0.0.1:58667 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:09:23 2017] 127.0.0.1:58668 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:09:23 2017] 127.0.0.1:58669 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:09:24 2017] 127.0.0.1:58671 [200]: /js/app.min.js
+[Wed Oct 18 21:09:24 2017] 127.0.0.1:58672 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:09:25 2017] PHP Fatal error:  Class 'proyecto\Http\Controllers\Administrador' not found in C:\Tenta\app\Http\Controllers\CompraController.php on line 43
+[Wed Oct 18 21:09:25 2017] 127.0.0.1:58675 [200]: /favicon.ico
+[Wed Oct 18 21:10:14 2017] 127.0.0.1:58685 Invalid request (Unexpected EOF)
+[Wed Oct 18 21:10:14 2017] 127.0.0.1:58686 Invalid request (Unexpected EOF)
+[Wed Oct 18 21:10:14 2017] 127.0.0.1:58687 Invalid request (Unexpected EOF)
+[Wed Oct 18 21:10:14 2017] 127.0.0.1:58688 Invalid request (Unexpected EOF)
+[Wed Oct 18 21:11:11 2017] 127.0.0.1:58694 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:11:11 2017] 127.0.0.1:58696 [200]: /css/font-awesome.css
+[Wed Oct 18 21:11:11 2017] 127.0.0.1:58697 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:11:11 2017] 127.0.0.1:58698 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:11:11 2017] 127.0.0.1:58700 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:11:11 2017] 127.0.0.1:58703 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:11:11 2017] 127.0.0.1:58705 [200]: /js/app.min.js
+[Wed Oct 18 21:11:12 2017] 127.0.0.1:58706 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:11:14 2017] 127.0.0.1:58713 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:11:14 2017] 127.0.0.1:58715 [200]: /css/font-awesome.css
+[Wed Oct 18 21:11:14 2017] 127.0.0.1:58716 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:11:14 2017] 127.0.0.1:58717 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:11:14 2017] 127.0.0.1:58718 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:11:14 2017] 127.0.0.1:58719 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:11:15 2017] 127.0.0.1:58721 [200]: /js/app.min.js
+[Wed Oct 18 21:11:15 2017] 127.0.0.1:58722 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:11:16 2017] 127.0.0.1:58728 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:11:17 2017] 127.0.0.1:58730 [200]: /css/font-awesome.css
+[Wed Oct 18 21:11:17 2017] 127.0.0.1:58731 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:11:17 2017] 127.0.0.1:58732 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:11:17 2017] 127.0.0.1:58733 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:11:17 2017] 127.0.0.1:58734 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:11:17 2017] 127.0.0.1:58736 [200]: /js/app.min.js
+[Wed Oct 18 21:11:17 2017] 127.0.0.1:58737 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:11:33 2017] 127.0.0.1:58746 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:11:33 2017] 127.0.0.1:58748 [200]: /css/font-awesome.css
+[Wed Oct 18 21:11:33 2017] 127.0.0.1:58749 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:11:33 2017] 127.0.0.1:58750 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:11:33 2017] 127.0.0.1:58751 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:11:33 2017] 127.0.0.1:58754 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:11:33 2017] 127.0.0.1:58756 [200]: /js/app.min.js
+[Wed Oct 18 21:11:33 2017] 127.0.0.1:58757 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:12:25 2017] 127.0.0.1:58769 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:12:25 2017] 127.0.0.1:58771 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:12:25 2017] 127.0.0.1:58766 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:12:25 2017] 127.0.0.1:58767 [200]: /css/font-awesome.css
+[Wed Oct 18 21:12:25 2017] 127.0.0.1:58772 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:12:25 2017] 127.0.0.1:58773 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:12:25 2017] 127.0.0.1:58775 [200]: /js/app.min.js
+[Wed Oct 18 21:12:25 2017] 127.0.0.1:58776 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:12:28 2017] 127.0.0.1:58784 [200]: /favicon.ico
+[Wed Oct 18 21:12:33 2017] 127.0.0.1:58790 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:12:33 2017] 127.0.0.1:58795 [200]: /css/font-awesome.css
+[Wed Oct 18 21:12:33 2017] 127.0.0.1:58796 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:12:33 2017] 127.0.0.1:58797 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:12:33 2017] 127.0.0.1:58798 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:12:33 2017] 127.0.0.1:58799 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:12:33 2017] 127.0.0.1:58801 [200]: /js/app.min.js
+[Wed Oct 18 21:12:33 2017] 127.0.0.1:58802 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:12:47 2017] 127.0.0.1:58808 Invalid request (Unexpected EOF)
+[Wed Oct 18 21:15:48 2017] 127.0.0.1:58814 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:15:48 2017] 127.0.0.1:58818 [200]: /css/font-awesome.css
+[Wed Oct 18 21:15:48 2017] 127.0.0.1:58819 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:15:48 2017] 127.0.0.1:58820 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:15:48 2017] 127.0.0.1:58821 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:15:48 2017] 127.0.0.1:58822 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:15:48 2017] 127.0.0.1:58824 [200]: /js/app.min.js
+[Wed Oct 18 21:15:48 2017] 127.0.0.1:58825 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:15:49 2017] 127.0.0.1:58832 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:15:50 2017] 127.0.0.1:58834 [200]: /css/font-awesome.css
+[Wed Oct 18 21:15:50 2017] 127.0.0.1:58836 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:15:50 2017] 127.0.0.1:58837 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:15:50 2017] 127.0.0.1:58838 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:15:50 2017] 127.0.0.1:58840 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:15:50 2017] 127.0.0.1:58842 [200]: /js/app.min.js
+[Wed Oct 18 21:15:50 2017] 127.0.0.1:58843 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:15:54 2017] 127.0.0.1:58854 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:15:54 2017] 127.0.0.1:58856 [200]: /css/font-awesome.css
+[Wed Oct 18 21:15:54 2017] 127.0.0.1:58857 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:15:54 2017] 127.0.0.1:58858 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:15:54 2017] 127.0.0.1:58859 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:15:54 2017] 127.0.0.1:58861 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:15:54 2017] 127.0.0.1:58862 [200]: /js/app.min.js
+[Wed Oct 18 21:15:54 2017] 127.0.0.1:58863 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:16:01 2017] 127.0.0.1:58873 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:16:01 2017] 127.0.0.1:58875 [200]: /css/font-awesome.css
+[Wed Oct 18 21:16:01 2017] 127.0.0.1:58876 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:16:01 2017] 127.0.0.1:58877 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:16:01 2017] 127.0.0.1:58878 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:16:01 2017] 127.0.0.1:58882 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:16:01 2017] 127.0.0.1:58883 [200]: /js/app.min.js
+[Wed Oct 18 21:16:01 2017] 127.0.0.1:58886 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:16:04 2017] 127.0.0.1:58890 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:16:04 2017] 127.0.0.1:58893 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:16:04 2017] 127.0.0.1:58892 [200]: /css/font-awesome.css
+[Wed Oct 18 21:16:04 2017] 127.0.0.1:58894 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:16:04 2017] 127.0.0.1:58895 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:16:05 2017] 127.0.0.1:58897 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:16:05 2017] 127.0.0.1:58898 [200]: /js/app.min.js
+[Wed Oct 18 21:16:05 2017] 127.0.0.1:58899 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:16:12 2017] 127.0.0.1:58910 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:16:12 2017] 127.0.0.1:58912 [200]: /css/font-awesome.css
+[Wed Oct 18 21:16:12 2017] 127.0.0.1:58913 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:16:12 2017] 127.0.0.1:58914 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:16:12 2017] 127.0.0.1:58915 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:16:12 2017] 127.0.0.1:58917 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:16:12 2017] 127.0.0.1:58918 [200]: /js/app.min.js
+[Wed Oct 18 21:16:12 2017] 127.0.0.1:58919 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:16:27 2017] 127.0.0.1:58927 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:16:28 2017] 127.0.0.1:58929 [200]: /css/font-awesome.css
+[Wed Oct 18 21:16:28 2017] 127.0.0.1:58930 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:16:28 2017] 127.0.0.1:58931 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:16:28 2017] 127.0.0.1:58932 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:16:28 2017] 127.0.0.1:58933 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:16:28 2017] 127.0.0.1:58934 [200]: /js/app.min.js
+[Wed Oct 18 21:16:28 2017] 127.0.0.1:58936 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:16:30 2017] 127.0.0.1:58940 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:16:30 2017] 127.0.0.1:58942 [200]: /css/font-awesome.css
+[Wed Oct 18 21:16:30 2017] 127.0.0.1:58943 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:16:30 2017] 127.0.0.1:58944 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:16:30 2017] 127.0.0.1:58945 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:16:30 2017] 127.0.0.1:58951 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:16:30 2017] 127.0.0.1:58953 [200]: /js/app.min.js
+[Wed Oct 18 21:16:30 2017] 127.0.0.1:58956 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
+[Wed Oct 18 21:16:48 2017] 127.0.0.1:58960 [200]: /css/bootstrap.min.css
+[Wed Oct 18 21:16:48 2017] 127.0.0.1:58962 [200]: /css/font-awesome.css
+[Wed Oct 18 21:16:48 2017] 127.0.0.1:58963 [200]: /css/AdminLTE.min.css
+[Wed Oct 18 21:16:48 2017] 127.0.0.1:58964 [200]: /css/_all-skins.min.css
+[Wed Oct 18 21:16:48 2017] 127.0.0.1:58965 [200]: /js/jQuery-2.1.4.min.js
+[Wed Oct 18 21:16:48 2017] 127.0.0.1:58966 [200]: /js/bootstrap.min.js
+[Wed Oct 18 21:16:49 2017] 127.0.0.1:58968 [200]: /js/app.min.js
+[Wed Oct 18 21:16:49 2017] 127.0.0.1:58969 [200]: /fonts/fontawesome-webfont.woff2?v=4.4.0
