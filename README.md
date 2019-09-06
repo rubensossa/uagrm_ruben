@@ -16,7 +16,7 @@ BIGQUERY:Prueba de Consultas.
 APPMAKER: Para que sirve.
 
 QUE ARE HOY?
-Modulo 1
+Estructuracion del documento
 
 COMO LO HARE?
-Con practica
+Con las normas APAS correspondientes
