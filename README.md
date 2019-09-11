@@ -16,9 +16,10 @@ BIGQUERY:Prueba de Consultas.
 APPMAKER: Para que sirve.
 ESTRUCTURA DEL DOCUMENTO
 generator for angular material CRUD
-
-QUE ARE HOY?
 Desarrollo de la aplicación Angular 8 CRUD
 
+QUE ARE HOY?
+Ganerar una APK con CORDOVA
+
 COMO LO HARE?
-Utilizando la ultima version de Angular CLI
+Utilizando la libreria de CORDOVA
