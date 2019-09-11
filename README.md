@@ -15,9 +15,10 @@ GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
 BIGQUERY:Prueba de Consultas.
 APPMAKER: Para que sirve.
 ESTRUCTURA DEL DOCUMENTO
+generator for angular material CRUD
 
 QUE ARE HOY?
-Ressolver el problema de una aplicacion angular
+Desarrollo de la aplicación Angular 8 CRUD
 
 COMO LO HARE?
-Con un generador de angular llamado angular-material-crud:application
+Utilizando la ultima version de Angular CLI
