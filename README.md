@@ -5,7 +5,7 @@ Año: 2019
 Informe Diario de Avance:
 El objetivo de este informe es facilitar la transferencia de información y la colaboración entre los miembros del equipo para aumentar la productividad.
 
-FECHA:11/09/2019
+FECHA:16/09/2019
 
 QUE HICE HASTA AHORA?
 APRENDER:
@@ -17,9 +17,10 @@ APPMAKER: Para que sirve.
 ESTRUCTURA DEL DOCUMENTO
 generator for angular material CRUD
 Desarrollo de la aplicación Angular 8 CRUD
+Utilizar la libreria de Cordova
 
 QUE ARE HOY?
-Ganerar una APK con CORDOVA
+Utilizacion de una metodologia agil
 
 COMO LO HARE?
-Utilizando la libreria de CORDOVA
+con el framework php-laravel
